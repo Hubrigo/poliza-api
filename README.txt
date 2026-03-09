@@ -178,7 +178,7 @@ Permite cancelar un riesgo específico.
 1. Clonar repositorio
 
 ```
-git clone https://github.com/usuario/poliza-api.git
+git clone https://github.com/Hubrigo/poliza-api.git
 ```
 
 2. Entrar al proyecto
